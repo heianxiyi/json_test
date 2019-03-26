@@ -11,5 +11,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "goods":[
+    {"id":1,"name":"肥皂","pries":"0.2","count":1}
+  ]
 }
